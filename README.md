@@ -2,7 +2,7 @@
 I Developed this  Responsive E- Commerce website Using HTML , CSS and Bootstrap
 
 ## UX
-The purpose of the the project is to create a e-commerce app for everyone interested in shopping online. Layout is simple and clear. Project is accesible through all modern browsers on both desktop and mobile devices. For build the front-end functionality CSS, HTML and Bootstrap.
+The purpose of the the project is to create a e-commerce website for everyone interested in shopping online. Layout is simple and clear. Project is accesible through all modern browsers on both desktop and mobile devices. For build the front-end functionality CSS, HTML and Bootstrap.
 
 
 ### Technologies used
